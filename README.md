@@ -4,7 +4,7 @@ I want become a full stack developer.So my journey beginnes from HTML
 and i am currently learning JavaScript.
 Basically,my only goal is become a good full stack developer.It will take time .
 I'm very consistent person..
-"EAT,SLEEP,CODE
+Three magical words-->"EAT,SLEEP,CODE"
 
 
 <!---
