@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Himanshu bisht</h1>
+
+
+<h1 align="center">Hi 👋, I'm Himanshu_Bst</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshub02&label=Profile%20views&color=0e75b6&style=flat" alt="himanshub02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshub02" alt="himanshub02" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/himanshu_bst" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu_bst?logo=twitter&style=for-the-badge" alt="himanshu_bst" /></a> </p>
+    <img align="right" alt="Coding" width="400" src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png">
 
 - 🌱 I’m currently learning **javascript,react**
 
@@ -28,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshub02&show_icons=true&locale=en&layout=compact" alt="himanshub02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshub02&show_icons=true&locale=en" alt="himanshub02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshub02&" alt="himanshub02" /></p>
